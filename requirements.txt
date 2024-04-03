@@ -1,0 +1,6 @@
+colorama
+pystyle
+requests
+asyncio
+aiohttp
+easygui
